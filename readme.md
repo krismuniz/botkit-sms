@@ -1,7 +1,7 @@
 # botkit-sms
 
 [![npm](https://img.shields.io/npm/v/botkit-sms.svg?style=flat-square)](https://www.npmjs.com/package/botkit-sms)
-[![Dependency Status](https://img.shields.io/david/krismuniz/botkit-sms.svg?style=flat-square)](https://david-dm.org/krismuniz/botkit-sms)
+[![Dependency Status](https://david-dm.org/krismuniz/botkit-sms.svg?style=flat-square)](https://david-dm.org/krismuniz/botkit-sms)
 [![Code-Style:Standard](https://img.shields.io/badge/code%20style-standard-green.svg?style=flat-square)](http://standardjs.com/)
 [![License:MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
