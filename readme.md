@@ -5,9 +5,9 @@
 [![Code-Style:Standard](https://img.shields.io/badge/code%20style-standard-green.svg?style=flat-square)](http://standardjs.com/)
 [![License:MIT](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://opensource.org/licenses/MIT)
 
-`botkit-sms` allows you to create conversational SMS apps ("bots") via the Twilio Programmable SMS API using [Botkit](https://www.github.com/howdyai/botkit)'s familiar  interface.
+`botkit-sms` allows you to create conversational SMS apps ("bots") via Twilio's Programmable SMS API using [Botkit](https://www.github.com/howdyai/botkit)'s familiar  interface.
 
-It takes advantage of Botkit's core functionality thus allowing you to create complex conversational flows via a simple interface. It also allows you also to use [custom storage methods/systems](https://github.com/howdyai/botkit/blob/master/readme.md#storing-information) to enable data persistence across sessions.
+It takes advantage of Botkit's core functionality thus allowing you to create complex conversational flows via a simple interface. It also allows you to use [custom storage methods/systems](https://github.com/howdyai/botkit/blob/master/readme.md#storing-information) to enable data persistence across sessions.
 
 #### What is Botkit?
 
