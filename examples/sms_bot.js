@@ -1,4 +1,5 @@
 /* Minimal SMS bot powered by Twilio Programmable SMS and Botkit */
+'use strict'
 
 const TwilioSMSBot = require('botkit-sms')
 const controller = TwilioSMSBot({
