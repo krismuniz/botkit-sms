@@ -21,7 +21,7 @@ controller.hears(['hi', 'hello'], 'message_received', (bot, message) => {
   bot.startConversation(message, (err, convo) => {
     if (convo) console.log(err)
     convo.say('Hi, I am Oliver, an SMS bot! :D')
-    convo.ask('What is your name?', (err, res) => {
+    convo.ask('What is your name?', (res, convo) => {
       if (err) console.log(err)
       convo.say(`Nice to meet you, ${res.text}!`)
       convo.next()
