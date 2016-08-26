@@ -30,5 +30,5 @@ controller.hears(['hi', 'hello'], 'message_received', (bot, message) => {
 })
 
 controller.hears('.*', 'message_received', (bot, message) => {
-  bot.reply('huh?')
+  bot.reply(message, 'huh?')
 })
