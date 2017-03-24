@@ -1,6 +1,6 @@
 {
   "name": "botkit-sms",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Twilio Programmable SMS implementation for Botkit.",
   "main": "lib/index.js",
   "author": "Kristian Muñiz <kristian.muniz@upr.edu> (http://www.krismuniz.com)",
