@@ -77,6 +77,12 @@ controller.hears(['hi', 'hello'], 'message_received', (bot, message) => {
 
 controller.hears('.*', 'message_received', (bot, message) => {
   bot.reply(message, 'huh?')
+
+  // send an image
+  bot.reply(message, {
+    body: 'Optional body to go with text',
+    mediaUrl: 'https://i.imgur.com/9n3qoKx.png'
+  })
 })
 ```
 
