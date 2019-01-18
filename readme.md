@@ -1,3 +1,7 @@
+🚨Deprecated in favor of `botkit`!
+
+The official Botkit project now supports [Twilio SMS](https://botkit.ai/docs/readme-twiliosms.html)! Install `botkit` instead. If you already use `botkit-sms` please consider switching as this project is **no longer maintained**.
+
 # botkit-sms
 
 [![npm](https://img.shields.io/npm/v/botkit-sms.svg?style=flat-square)](https://www.npmjs.com/package/botkit-sms)
@@ -95,13 +99,7 @@ Please see `botkit`'s guide and reference document [here](https://github.com/how
 
 ## Contributing
 
-#### Bug Reports & Feature Requests
-
-Something does not work as expected or perhaps you think this module needs a feature? Please [open an issue](https://github.com/krismuniz/botkit-sms/issues/new) using GitHub's [issue tracker](https://github.com/krismuniz/botkit-sms/issues). Please be as specific and straightforward as possible.
-
-#### Developing
-
-Pull Requests (PRs) are welcome. Make sure you follow the same basic stylistic conventions as the original code (i.e. ["JavaScript standard code style"](http://standardjs.com)). Your changes must be concise and focus on solving a single problem.
+This project is no longer maintained. Consider forking or –better yet– contributing to the official [Botkit](https://github.com/howdyai/botkit) instead.
 
 ## License
 
